@@ -10,7 +10,7 @@
 ## November 28
 ### Ravin
 - [ ] fix up noise masks
-- [ ] pipeline problem
+- [x] pipeline problem
 - [ ] try out AWS (put together on: the tooling, the pipeline (how we generate/store the training data/cost projection, persistance.))
 - [ ] look into CU's supercomputer
 - [ ] try out mask-rcnn
